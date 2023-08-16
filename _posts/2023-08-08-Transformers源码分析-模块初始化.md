@@ -1,7 +1,7 @@
 ---
-title: 【Transformers 源码分析】模块初始化
+title: Transformers 源码分析 - 模块初始化
 author: zhang
-date: 2023-07-11 15:00:00 +0800
+date: 2023-08-08 15:00:00 +0800
 categories: [Blogging, Hugging Face]
 tags: [huggingface, transformers]
 mermaid: true
